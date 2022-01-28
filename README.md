@@ -2,7 +2,7 @@
 
 I have graduate-level training in quantitative economics and extensive experience in combining data from various sources to generate predictive and causal insights.
 
-#### Please see my portfolio at https://www.whitlow.ca.
+### Please see my portfolio at https://www.whitlow.ca.
 
 <!--
 **stevenwhitlow/stevenwhitlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
