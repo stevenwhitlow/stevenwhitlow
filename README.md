@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I have graduate-level training as an economist and extensive experience in combining data from various sources to generate predictive and causal insights.
+
+#### See my portfolio at https://www.whitlow.ca.
+
 <!--
 **stevenwhitlow/stevenwhitlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
