@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have graduate-level training as an economist and extensive experience in combining data from various sources to generate predictive and causal insights.
+I have graduate-level training in quantitative economics and extensive experience in combining data from various sources to generate predictive and causal insights.
 
 #### See my portfolio at https://www.whitlow.ca.
 
